@@ -1,5 +1,4 @@
 def func(msg):
-    # This is a different comment
-    # this is a comment
+    # No longer need comments
     print (msg)
 func("Hello World!")
